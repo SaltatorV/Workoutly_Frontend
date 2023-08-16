@@ -1,0 +1,10 @@
+.biceps-mark {
+  color: #24a0e2;
+  width: 30px;
+  height: 30px;
+}
+
+.biceps-mark:hover {
+  color: #1b75a5;
+  cursor: pointer;
+}

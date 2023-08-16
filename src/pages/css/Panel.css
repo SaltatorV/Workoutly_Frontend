@@ -1,0 +1,25 @@
+.summary-page {
+  background: rgb(22, 22, 22);
+  width: 100%;
+  height: 200vh;
+}
+
+.summary-container {
+  box-shadow: 1px 3px #121212;
+  background: rgb(22, 22, 22);
+  align-items: center;
+  position: relative;
+  font-size: 15px;
+  width: 100%;
+  height: 90vh;
+}
+
+.summary-dashboard {
+  box-shadow: 1px 3px #121212;
+  background: rgb(22, 22, 22);
+  align-items: center;
+  position: relative;
+  font-size: 15px;
+  width: 100%;
+  height: 200vh;
+}

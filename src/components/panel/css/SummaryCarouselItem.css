@@ -1,0 +1,37 @@
+.carousel-item-info {
+  background-color: aqua;
+}
+
+.carousel-item-chart {
+  background-color: aqua;
+}
+
+.routine-plan {
+  width: 60%;
+  height: 80%;
+}
+
+.carousel-item-header {
+  text-align: center;
+  display: flex;
+}
+
+.carousel-item-header button {
+  width: 40px;
+  height: 40px;
+  margin: 0px 10px;
+  padding: 0px;
+  text-align: center;
+  background-color: transparent;
+}
+
+.carousel-item-header h2 {
+  color: #24a0e2;
+  font-weight: 900;
+  width: 40%;
+  height: 100%;
+  float: left;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 10%;
+}

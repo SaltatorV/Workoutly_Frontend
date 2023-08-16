@@ -1,0 +1,47 @@
+.routine-exercise {
+  color: white;
+  font-weight: bold;
+  height: 45px;
+  width: 230px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.routine-exercise-number {
+  background-color: #333;
+  border: 3px solid #24a0ed;
+  transform: skewX(-15deg);
+  height: 55%;
+  width: 14%;
+  margin-left: -30px;
+  float: left;
+  font-size: 15px;
+  margin-top: 6px;
+}
+
+.routine-exercise-content {
+  height: 100%;
+  width: 80%;
+  background-color: #24a0ed;
+  border: 3px solid #0173b9;
+  border-left: none;
+  font-size: 12px;
+  transform: skewX(-15deg);
+  box-shadow: 1px 1px 3px 3px rgba(80, 80, 80, 0.8);
+}
+
+.routine-exercise-name {
+  margin-bottom: 0;
+  text-align: left;
+}
+
+.routine-exercise-type {
+  text-align: left;
+}
+
+.routine-exercise-header {
+  float: left;
+  margin: 0;
+  margin-right: 3px;
+  color: black;
+}

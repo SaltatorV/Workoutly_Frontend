@@ -1,0 +1,35 @@
+.workout-plan-deleted-container {
+  border-top: 5px solid #45b6fb;
+  box-shadow: 1px 3px #121212;
+  background: rgb(22, 22, 22);
+  align-items: center;
+  position: relative;
+  font-size: 12px;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+.workout-plan-delted-header {
+  color: white;
+  margin-top: 110px;
+}
+
+.workout-plan-deleted-hidden {
+  visibility: hidden;
+}
+
+.workout-plan-deleted-container button {
+  background-color: transparent;
+  color: #45b6fb;
+  border: 4px ridge #45b6fb;
+  border-radius: 1rem;
+  font-size: 19px;
+  width: 220px;
+  height: 70px;
+  font-weight: bold;
+}
+
+.workout-plan-deleted-container button:hover {
+  background-color: #060606;
+}

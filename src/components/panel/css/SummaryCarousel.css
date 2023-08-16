@@ -1,0 +1,42 @@
+.summary-carousel {
+  height: 700px;
+}
+
+.general-carousel {
+  height: 600px;
+  display: flex;
+}
+
+.general-carousel-item-content {
+  border: 3px solid white;
+  border-radius: 1rem;
+  width: 80%;
+  height: 450px;
+  background-color: #171717;
+  margin: 5px auto;
+}
+
+.general-carousel-item-caption {
+  color: #24a0e2;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+
+.routine-plan {
+  min-width: 200px;
+  min-height: 300px;
+  background-color: white;
+}
+
+.routine-chart {
+  width: 40%;
+  height: 80%;
+  background-color: white;
+}
+
+.general-carousel-info {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+.general-chart-tooltip {
+  background-color: #232323;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 1rem;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+.tooltip-description {
+  font-size: 13px;
+  font-weight: 700;
+}

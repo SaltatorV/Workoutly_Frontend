@@ -1,0 +1,9 @@
+.plan-summary {
+  border: 4px ridge #45b6fb;
+  text-align: center;
+  border-radius: 1rem;
+}
+
+.plan-summary button {
+  background-color: transparent;
+}

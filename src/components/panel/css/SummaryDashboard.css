@@ -1,0 +1,19 @@
+.summary-dashboard-container {
+  height: 100%;
+  width: 100%;
+  border-top: 2px solid #24a0ed;
+  color: #24a0ed;
+  font-weight: 700;
+}
+
+.dashboard-title {
+  text-decoration: underline;
+}
+
+.summary-line-chart,
+.summary-volume-chart,
+.summary-measurements-chart {
+  border: 4px solid #000;
+  background-color: #101010;
+  border-radius: 1rem;
+}

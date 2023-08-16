@@ -1,0 +1,93 @@
+.register-form {
+  color: #24a0ed;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.register-form p {
+  margin: 20px;
+}
+
+.register-form input {
+  background: none;
+  color: #24a0ed;
+  display: flex;
+  padding: 10px;
+  border: none;
+  border-bottom: #24a0ed 2px solid;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 75%;
+}
+
+.register-form input::placeholder {
+  color: #24a0ed;
+}
+
+.register-form hr {
+  height: 10px;
+  border-top: #fff 3px solid;
+  margin: 15px;
+}
+
+.register-form button {
+  text-align: center;
+  margin: auto;
+  display: flex;
+  border: #24a0ed 2px solid;
+  border-radius: 1rem;
+  background-color: #24a0ed;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px 50px 10px 50px;
+}
+
+.register-form button:hover {
+  background-color: #1f7ab3;
+}
+
+.register-form .icon {
+  margin-top: 20px;
+  color: #24a0ed;
+  font-size: 35px;
+}
+
+.register-form .input-field {
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.input-field .exclamation-mark-link {
+  width: 30px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+  margin-left: 20px;
+  margin-top: 30px;
+  justify-content: center;
+}
+
+.exclamation-mark {
+  width: 30px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+  color: red;
+}
+
+.ok-field {
+  color: green;
+  visibility: visible;
+  text-align: center;
+}
+
+.ok-field-hidden {
+  visibility: hidden;
+}
+
+.invalid-field {
+  color: red;
+  visibility: visible;
+  display: block;
+}

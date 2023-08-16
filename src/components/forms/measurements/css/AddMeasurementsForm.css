@@ -1,0 +1,75 @@
+.add-measurements-form {
+  color: #24a0ed;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.add-measurements-form p {
+  margin: 20px;
+}
+
+.add-measurements-form input {
+  background: none;
+  color: #24a0ed;
+  display: flex;
+  padding: 10px;
+  border: none;
+  border-bottom: #24a0ed 2px solid;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 50%;
+}
+
+.add-measurements-form input::placeholder {
+  color: #24a0ed;
+}
+
+.add-measurements-form hr {
+  height: 10px;
+  border-top: #fff 3px solid;
+  margin: 20px;
+}
+
+.add-measurements-form button {
+  text-align: center;
+  margin: auto;
+  display: flex;
+  border: #24a0ed 2px solid;
+  border-radius: 1rem;
+  background-color: #24a0ed;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px 40px 10px 40px;
+}
+
+.add-measurements-form button:hover {
+  background-color: #1f7ab3;
+}
+
+.add-measurements-form .icon {
+  margin-top: 15px;
+  color: #24a0ed;
+  font-size: 30px;
+}
+
+.add-measurements-form .add-weight-info {
+  color: #24a0ed;
+  font-weight: bold;
+  font-size: 18px;
+  width: 15%;
+}
+
+.add-measurements-form .input-field {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.invalid-field {
+  color: red;
+  visibility: visible;
+}
+
+.invalid-field-hidden {
+  visibility: hidden;
+}

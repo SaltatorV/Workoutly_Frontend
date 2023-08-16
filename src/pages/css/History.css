@@ -1,0 +1,31 @@
+.history-container {
+    border-top: 5px solid #14222b;
+    box-shadow: 1px 3px #121212;
+    background: rgb(22, 22, 22);
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+    width: 100%;
+    color: white;
+    height: 620vh;
+  }
+  
+.history-container hr {
+  height: 10px;
+  border-top: #24a0ed 4px ridge;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+  .history-container h2 {
+    color: #24a0ed;
+  }
+
+  .history-chart-container {
+    border-radius: 1rem;
+    border: 4px ridge #45b6fb;
+    height: 550px;
+    margin: 0 auto;
+  }
+  

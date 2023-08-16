@@ -1,0 +1,75 @@
+.add-weight-form {
+  color: #24a0ed;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.add-weight-form p {
+  margin: 20px;
+}
+
+.add-weight-form input {
+  background: none;
+  color: #24a0ed;
+  display: flex;
+  padding: 10px;
+  border: none;
+  border-bottom: #24a0ed 2px solid;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 50%;
+}
+
+.add-weight-form input::placeholder {
+  color: #24a0ed;
+}
+
+.add-weight-form hr {
+  height: 10px;
+  border-top: #fff 3px solid;
+  margin: 20px;
+}
+
+.add-weight-form button {
+  text-align: center;
+  margin: auto;
+  display: flex;
+  border: #24a0ed 2px solid;
+  border-radius: 1rem;
+  background-color: #24a0ed;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px 40px 10px 40px;
+}
+
+.add-weight-form button:hover {
+  background-color: #1f7ab3;
+}
+
+.add-weight-form .icon {
+  margin-top: 15px;
+  color: #24a0ed;
+  font-size: 30px;
+}
+
+.add-weight-form .add-weight-info {
+  color: #24a0ed;
+  font-weight: bold;
+  font-size: 18px;
+  width: 15%;
+}
+
+.add-weight-form .input-field {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.invalid-field {
+  color: red;
+  visibility: visible;
+}
+
+.invalid-field-hidden {
+  visibility: hidden;
+}

@@ -1,0 +1,24 @@
+.summary-header {
+  margin: 20px;
+  width: 80%;
+  float: left;
+}
+
+.summary-header-line {
+  border: none;
+  height: 4px;
+}
+
+.summary-question-mark {
+  font-size: 25px;
+  margin-top: 25px;
+}
+
+.question-mark {
+  width: 30px;
+  height: 30px;
+}
+
+.question-mark:hover {
+  cursor: pointer;
+}
